@@ -1,0 +1,77 @@
+[
+  {
+    "slug": "malaria",
+    "icon": "shield-plus",
+    "sort_order": 1,
+    "names": {
+      "en": "Malaria & Fever",
+      "yo": "Ibà & Àrùn Malárìà",
+      "pcm": "Malaria & Hot Body"
+    },
+    "descriptions": {
+      "en": "Testing before treatment, completing ACT doses, and preventing mosquito bites.",
+      "yo": "Àyẹ̀wò kí o tó lo oògùn, píparí oògùn ibà, àti dídènà ìjẹ ẹ̀fọn.",
+      "pcm": "Make you test before you take drug, finish your malaria medicine, and block mosquito."
+    }
+  },
+  {
+    "slug": "hypertension",
+    "icon": "heart-pulse",
+    "sort_order": 2,
+    "names": {
+      "en": "Blood Pressure",
+      "yo": "Ìfúnpá Gíga",
+      "pcm": "High Blood Pressure (BP)"
+    },
+    "descriptions": {
+      "en": "Checking blood pressure regularly, daily medicines, and salt reduction.",
+      "yo": "Ṣíṣàyẹ̀wò ìfúnpá déédéé, oògùn ojoojúmọ́, àti dídín iyọ̀ kù.",
+      "pcm": "How to dey check BP every time, take your everyday medicine, and reduce salt."
+    }
+  },
+  {
+    "slug": "child_diarrhoea_ors",
+    "icon": "droplet",
+    "sort_order": 3,
+    "names": {
+      "en": "Child Diarrhoea & ORS",
+      "yo": "Ìgbẹ́ Gbuuru Ọmọ & ORS",
+      "pcm": "Pikin Running Belle & ORS"
+    },
+    "descriptions": {
+      "en": "Mixing ORS sachets safely, zinc guidance, and feeding a child with diarrhoea.",
+      "yo": "Pípò omi iyọ̀ ORS lọ́nà tó tọ́, oògùn zinc, àti fífún ọmọ lóúnjẹ.",
+      "pcm": "How to mix ORS water well, use zinc tablet, and still feed pikin wey dey purge."
+    }
+  },
+  {
+    "slug": "pregnancy_danger_signs",
+    "icon": "baby",
+    "sort_order": 4,
+    "names": {
+      "en": "Pregnancy Care & Signs",
+      "yo": "Ìtọ́jú Aláboyún & Àmì Ewu",
+      "pcm": "Belle Woman Care & Danger Signs"
+    },
+    "descriptions": {
+      "en": "Antenatal visits, danger signs that need immediate hospital care, and safe habits.",
+      "yo": "Lílọ sí ilé ìwòsàn aláboyún, àmì ewu kíákíá, àti ìlera oyún.",
+      "pcm": "Antenatal clinic checkups, danger signs wey need hospital sharp-sharp, and healthy food."
+    }
+  },
+  {
+    "slug": "safe_medicine_use",
+    "icon": "pill",
+    "sort_order": 5,
+    "names": {
+      "en": "Safe Medicine Use",
+      "yo": "Lílo Oògùn Lọ́nà Ààbò",
+      "pcm": "How to Use Medicine Well"
+    },
+    "descriptions": {
+      "en": "Checking NAFDAC numbers, avoiding leftover antibiotics, and storing medicines safely.",
+      "yo": "Yíyẹ nọ́ńbà NAFDAC wò, píparí oògùn, àti títọ́jú oògùn pamọ́.",
+      "pcm": "Check NAFDAC number and expiry date, no share leftover antibiotics, and keep drugs safe."
+    }
+  }
+]

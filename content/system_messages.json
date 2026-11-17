@@ -1,0 +1,128 @@
+[
+  {
+    "key": "welcome",
+    "lang": "en",
+    "text": "Welcome to HealthYarn. Tap English to ask a health question or browse topics.",
+    "status": "published"
+  },
+  {
+    "key": "welcome",
+    "lang": "yo",
+    "text": "Ẹ káàbọ̀ sí HealthYarn. Tẹ Yorùbá láti béèrè ìbéèrè ìlera tàbí wo àwọn àkòrí.",
+    "status": "published"
+  },
+  {
+    "key": "welcome",
+    "lang": "pcm",
+    "text": "Welcome to HealthYarn. Press Nigerian Pidgin to ask health question or check the topics.",
+    "status": "published"
+  },
+  {
+    "key": "consent",
+    "lang": "en",
+    "text": "Your voice is used only to understand your question and is not saved.",
+    "status": "published"
+  },
+  {
+    "key": "consent",
+    "lang": "yo",
+    "text": "Ohùn rẹ wà fún lílóye ìbéèrè rẹ nìkan, a kò sì fi pamọ́.",
+    "status": "published"
+  },
+  {
+    "key": "consent",
+    "lang": "pcm",
+    "text": "We only use your voice to understand your question, we no dey save am at all.",
+    "status": "published"
+  },
+  {
+    "key": "red_flag_alert",
+    "lang": "en",
+    "text": "This may be an urgent medical danger sign. Please go immediately to the nearest health centre or call an emergency clinic below.",
+    "status": "published"
+  },
+  {
+    "key": "red_flag_alert",
+    "lang": "yo",
+    "text": "Èyí lè jẹ́ àmì ewu ìlera tó lágbára. Jọ̀wọ́ lọ sí ilé ìwòsàn tó súnmọ́ ọ lẹ́sẹ̀kẹsẹ̀ tàbí pe àwọn ilé ìwòsàn ìsàlẹ̀ yìí.",
+    "status": "published"
+  },
+  {
+    "key": "red_flag_alert",
+    "lang": "pcm",
+    "text": "Dis fit be serious emergency danger sign! Abeg go hospital or health centre sharp-sharp, or call any clinic number wey dey under.",
+    "status": "published"
+  },
+  {
+    "key": "disclaimer",
+    "lang": "en",
+    "text": "This guidance provides general health information only and does not replace seeing a doctor or health worker.",
+    "status": "published"
+  },
+  {
+    "key": "disclaimer",
+    "lang": "yo",
+    "text": "Ìmọ̀ràn yìí jẹ́ àlàyé ìlera gbogbogbò nìkan, kò rọ́pò rírí dókítà tàbí òṣìṣẹ́ ìlera.",
+    "status": "published"
+  },
+  {
+    "key": "disclaimer",
+    "lang": "pcm",
+    "text": "Dis talk na general health information only, e no dey replace seeing doctor or nurse for clinic.",
+    "status": "published"
+  },
+  {
+    "key": "unsure",
+    "lang": "en",
+    "text": "I am not completely sure what you asked. Did you mean one of these three questions?",
+    "status": "published"
+  },
+  {
+    "key": "unsure",
+    "lang": "yo",
+    "text": "N kò dá mi lójú pátápátá ohun tí o béèrè. Ṣé ọ̀kan nínú àwọn ìbéèrè mẹ́ta yìí ni o túmọ̀ sí?",
+    "status": "published"
+  },
+  {
+    "key": "unsure",
+    "lang": "pcm",
+    "text": "I no too sure wetin you ask. Na one of these three questions you mean?",
+    "status": "published"
+  },
+  {
+    "key": "stt_failed",
+    "lang": "en",
+    "text": "I could not hear your voice clearly right now. Please try again or tap one of the health topics below.",
+    "status": "published"
+  },
+  {
+    "key": "stt_failed",
+    "lang": "yo",
+    "text": "N kò lè gbọ́ ohùn rẹ dáadáa lọ́wọ́lọ́wọ́. Jọ̀wọ́ gbìyànjú lẹ́ẹ̀kan sí i tàbí tẹ ọ̀kan nínú àwọn àkòrí ìsàlẹ̀.",
+    "status": "published"
+  },
+  {
+    "key": "stt_failed",
+    "lang": "pcm",
+    "text": "I no hear your voice clear right now. Abeg try again or press any health topic wey dey down.",
+    "status": "published"
+  },
+  {
+    "key": "hero_intro",
+    "lang": "en",
+    "text": "Ask in your language. Hear an answer you can trust. HealthYarn answers everyday health questions out loud, in Yoruba, Pidgin or English. No reading. No typing. A health professional has checked every answer.",
+    "status": "published"
+  },
+  {
+    "key": "hero_intro",
+    "lang": "yo",
+    "text": "Béèrè ní èdè rẹ. Gbọ́ ìdáhùn tí o lè gbẹ́kẹ̀lé. HealthYarn ń dáhùn ìbéèrè ìlerà pẹ̀lú ohùn, ní Yorùbá, Pidgin tàbí Gẹ̀ẹ́sì. O kò nílò láti kàwé. O kò nílò láti tẹ̀wé. Oníṣẹ́ ìlerà ti ṣàyẹ̀wò gbogbo ìdáhùn.",
+    "status": "published"
+  },
+  {
+    "key": "hero_intro",
+    "lang": "pcm",
+    "text": "Ask for your own language. Hear answer wey you fit trust. HealthYarn dey answer health question with voice, for Yoruba, Pidgin or English. You no need read, you no need type. Health worker don check every answer.",
+    "status": "published"
+  }
+]
